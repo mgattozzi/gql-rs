@@ -1,0 +1,11 @@
+[package]
+name = "gql-rs"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+description = "Serialization/Deserialization library for GraphQL"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/mgattozzi/gql-rs.git"
+homepage = "https://github.com/mgattozzi/gql-rs"
+
+[dependencies]
+serde = "1.0"
